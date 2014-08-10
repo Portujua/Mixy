@@ -1,0 +1,18 @@
+c:\users\eduardo\documents\visual studio 2012\Projects\Mixy\Mixy\bin\Debug\Mixy.exe.config
+c:\users\eduardo\documents\visual studio 2012\Projects\Mixy\Mixy\bin\Debug\Mixy.exe
+c:\users\eduardo\documents\visual studio 2012\Projects\Mixy\Mixy\bin\Debug\Mixy.pdb
+c:\users\eduardo\documents\visual studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.Form1.resources
+c:\users\eduardo\documents\visual studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.Properties.Resources.resources
+c:\users\eduardo\documents\visual studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.csproj.GenerateResource.Cache
+c:\users\eduardo\documents\visual studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.exe
+c:\users\eduardo\documents\visual studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.pdb
+C:\Users\Eduardo Lorenzo\Documents\Visual Studio 2012\Projects\Mixy\Mixy\bin\Debug\Mixy.exe.config
+C:\Users\Eduardo Lorenzo\Documents\Visual Studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.exe
+C:\Users\Eduardo Lorenzo\Documents\Visual Studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.pdb
+C:\Users\Eduardo Lorenzo\Documents\Visual Studio 2012\Projects\Mixy\Mixy\bin\Debug\Mixy.exe
+C:\Users\Eduardo Lorenzo\Documents\Visual Studio 2012\Projects\Mixy\Mixy\bin\Debug\Mixy.pdb
+C:\Users\Eduardo Lorenzo\Documents\Visual Studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.Form1.resources
+C:\Users\Eduardo Lorenzo\Documents\Visual Studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.Properties.Resources.resources
+C:\Users\Eduardo Lorenzo\Documents\Visual Studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.csproj.GenerateResource.Cache
+C:\Users\Eduardo Lorenzo\Documents\Visual Studio 2012\Projects\Mixy\Mixy\obj\Debug\Mixy.Opciones.resources
